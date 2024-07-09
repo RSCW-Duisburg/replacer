@@ -23,7 +23,7 @@
 		"source": "https://github.com/jweiland-net/replacer"
 	},
 	"require": {
-		"typo3/cms-core": "^11.5.30 || ^12.4.4"
+		"typo3/cms-core": "^11.5.30 || ^12.4.4 || ^13"
 	},
 	"require-dev": {
 		"friendsofphp/php-cs-fixer": "^3.14",
